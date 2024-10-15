@@ -103,7 +103,7 @@ Or this:
 <div align="center">
     <a href="mailto:daniel.s.madsen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/daniel-staugaard-madsen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"></a>
+    <a href="https://www.linkedin.com/in/daniel-staugaard-madsen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"></a>
 </div>
 
 <!-- ICONS: https://devicon.dev -->
