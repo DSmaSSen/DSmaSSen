@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Danish-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Language-Danish-red?style=for-the-badge">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge">
 </p>
 
 ## 🤓 Who am I?
@@ -31,7 +32,7 @@ Now I'm a student and I look forward to - some day - make coding a part of my jo
 
 <h3 align="center">Know it well</h3>
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50" />
