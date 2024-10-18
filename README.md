@@ -24,8 +24,8 @@ Having been curious about the technical world since I was little, I used to thin
 Typical - I know - but I have since learned otherwise.
 
 Starting out by using MS Excel in creative ways;<br>
-... I found my passion in, creation and the satisfaction of writing good code,<br>
-... I found my motivation in, overcoming challenges and seeing results.<br>
+... I found my passion, in creation and the satisfaction of writing good code,<br>
+... I found my motivation, in overcoming challenges and seeing results.<br>
 Now I'm a student and I look forward to - some day - make coding a part of my job.
 
 ## 🖥️ Tech I'm acquainted with
